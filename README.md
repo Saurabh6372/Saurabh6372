@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development and website building
 - 🌱 I’m currently learning B.tech CSE
 - 💞️ I’m looking to collaborate on Game development and web development
-- 📫 Reach me at https://mauryasaurabh.tech/
+- 📫 Reach me at https://saurabhmaurya.dev/
 
 <!---
 Saurabh6372/Saurabh6372 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
